@@ -1,1 +1,1 @@
-# PAC-Bayesian-Un-Expected-Bernstein-Inequality
+# PAC-Bayesian Un-Expected Bernstein Inequality
