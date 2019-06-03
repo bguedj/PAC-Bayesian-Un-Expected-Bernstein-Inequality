@@ -1,3 +1,10 @@
+######################################################################
+## R script for computing bounds                                    ##
+## Preprint: PAC-Bayes Un-Expected Bernstein Inequality             ##
+## URL: https://arxiv.org/abs/1905.13367		            ##
+## Authors (alphabetical order): Benjamin Guedj & Zakaria Mhammedi  ## 
+######################################################################
+
 rm(list=ls())
 set.seed(123)
 library(MASS)
